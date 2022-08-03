@@ -1,0 +1,7 @@
+__pycache__/
+
+wandb/
+Dataset/
+Models/
+
+StrayDogs.mp4
